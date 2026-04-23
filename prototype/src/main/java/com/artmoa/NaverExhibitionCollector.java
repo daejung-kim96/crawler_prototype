@@ -29,8 +29,8 @@ public class NaverExhibitionCollector {
     // =========================
     // 0. 네이버 API 설정
     // =========================
-    private static final String CLIENT_ID = "Q2rhzi7EM0YEl7RnbVFW";
-    private static final String CLIENT_SECRET = "aeKTJ4jaVM";
+    private static final String CLIENT_ID = "XXXXXXXXXXXXXXX";
+    private static final String CLIENT_SECRET = "XXXXXXXXXXXXX";
 
     private static final ObjectMapper objectMapper = new ObjectMapper();
 
